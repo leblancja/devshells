@@ -23,7 +23,7 @@
 
           shellHook = ''
           
-            echo "SvelteKit development environment activated!"
+            echo "SvelteKit development environment"
             echo "Node version: $(node --version)"
             echo "npm version: $(npm --version)"
 
